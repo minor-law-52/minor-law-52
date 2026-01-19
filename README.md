@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hi, I'm a Software Engineer (Backend)
+# Hi, I'm a Software Engineer (Backend)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Backend+Developer;Laravel+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Backend+Developer;Laravel+Enthusiast" alt="Typing SVG" />
 </a>
 
 </div>
