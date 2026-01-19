@@ -16,9 +16,7 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=minor-law-52)](https://git.io/streak-stats)
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=minor-law-52)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **minor-law-52/minor-law-52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
