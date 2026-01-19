@@ -56,10 +56,10 @@
 ### **System Metrics**
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=minor-law-52&theme=dark&background=0D1117&ring=5B9AA6&fire=78B9C7&currStreakLabel=5B9AA6&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minor-law-52&theme=github-compact&bg_color=0D1117&color=5B9AA6&line=78B9C7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=minor-law-52&theme=dark&background=0D1117&ring=5B9AA6&fire=78B9C7&currStreakLabel=5B9AA6&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minor-law-52&theme=github-compact&bg_color=0D1117&color=5B9AA6&line=78B9C7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
