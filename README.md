@@ -93,11 +93,11 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=999999&color=5B9AA6&center=true&vCenter=true&width=435&lines=Technical+Arsenal" alt="Technical Arsenal" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=999999&color=5B9AA6&center=true&vCenter=true&width=435&lines=Languages" alt="Languages" />
 </div>
 
@@ -108,7 +108,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=999999&color=5B9AA6&center=true&vCenter=true&width=435&lines=Frameworks+%26+Libraries" alt="Frameworks & Libraries" />
 </div>
 
@@ -119,7 +119,7 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
 </p>
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=999999&color=5B9AA6&center=true&vCenter=true&width=435&lines=Database+%26+Tools" alt="Database & Tools" />
 </div>
 
@@ -128,7 +128,7 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=999999&color=5B9AA6&center=true&vCenter=true&width=435&lines=Development+Environment" alt="Development Environment" />
 </div>
 
@@ -140,7 +140,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=999999&color=5B9AA6&center=true&vCenter=true&width=435&lines=Contribution+Pattern" alt="Contribution Pattern" />
 </div>
 
