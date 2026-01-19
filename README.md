@@ -9,15 +9,22 @@
 ```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5B9AA6&center=true&vCenter=true&width=435&lines=Backend+Developer;Laravel+Enthusiast;Architect+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5B9AA6&center=true&vCenter=true&width=435&lines=Backend+Developer;Laravel+Enthusiast" alt="Typing SVG" />
 </a>
 
 </div>
 
-
 ---
 
 ### **Technical Arsenal**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+</p>
 
 **Core Languages**
 ```
@@ -26,11 +33,27 @@ JavaScript   ████████████░░░░░░░░  60%
 HTML/CSS     ██████████░░░░░░░░░░  50%
 ```
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
+</p>
+
 **Frameworks & Infrastructure**
 - **Backend**: Laravel (Primary), REST API Design
 - **Frontend**: React, Angular, jQuery
 - **Database**: MySQL
 - **Version Control**: Git, GitHub
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white" alt="PhpStorm" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
+</p>
 
 **Development Tools**
 - PhpStorm, Vim, Obsidian
@@ -61,6 +84,7 @@ HTML/CSS     ██████████░░░░░░░░░░  50%
 
 ```
 "The only way to go fast is to go well."
+                                        — Robert C. Martin
 ```
 
 <img src="https://komarev.com/ghpvc/?username=minor-law-52&color=5B9AA6&style=flat-square&label=Profile+Views" alt="Profile Views" />
