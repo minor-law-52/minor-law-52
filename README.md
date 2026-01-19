@@ -55,12 +55,7 @@
 
 ### **System Metrics**
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=minor-law-52&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=5B9AA6&icon_color=78B9C7&text_color=8B949E&count_private=true&include_all_commits=true" />
-</div>
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=minor-law-52&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=5B9AA6&icon_color=78B9C7&text_color=8B949E&count_private=true&include_all_commits=true" />
-</div>
+[![GitHub Skyline](https://img.shields.io/badge/View-GitHub_Skyline-5B9AA6?style=for-the-badge)](https://skyline.github.com/minor-law-52/2024)
 
 ---
 
