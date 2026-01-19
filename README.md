@@ -55,7 +55,7 @@
 
 ### **System Metrics**
 
-[![GitHub Skyline](https://img.shields.io/badge/View-GitHub_Skyline-5B9AA6?style=for-the-badge)](https://skyline.github.com/minor-law-52/2024)
+<img src="https://www.gitclear.com/snap_changelogs/YOUR_UUID.png" />
 
 ---
 
