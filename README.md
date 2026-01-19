@@ -75,8 +75,8 @@
 
 <div align="center">
 
-> "The only way to go fast is to go well."  
-> — Robert C. Martin
+ "The only way to go fast is to go well."  
+ — Robert C. Martin
 
 <img src="https://komarev.com/ghpvc/?username=minor-law-52&color=5B9AA6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
