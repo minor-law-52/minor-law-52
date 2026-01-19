@@ -56,10 +56,10 @@
 ### **System Metrics**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minor-law-52&theme=github-compact&bg_color=0D1117&color=5B9AA6&line=78B9C7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=minor-law-52&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=5B9AA6&icon_color=78B9C7&text_color=8B949E&count_private=true&include_all_commits=true" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minor-law-52&theme=github-compact&bg_color=0D1117&color=5B9AA6&line=78B9C7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=minor-law-52&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=5B9AA6&icon_color=78B9C7&text_color=8B949E&count_private=true&include_all_commits=true" />
 </div>
 
 ---
