@@ -56,10 +56,11 @@
 ### **System Metrics**
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=minor-law-52&show_icons=true&theme=calm&hide_border=true&bg_color=0D1117&title_color=5B9AA6&icon_color=78B9C7&text_color=8B949E" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minor-law-52&layout=compact&theme=calm&hide_border=true&bg_color=0D1117&title_color=5B9AA6&text_color=8B949E" alt="Top Languages" />
-
+  <img src="https://streak-stats.demolab.com?user=minor-law-52&theme=dark&background=0D1117&ring=5B9AA6&fire=78B9C7&currStreakLabel=5B9AA6&hide_border=true" alt="GitHub Streak" />
+</div>
+```markdown
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=minor-law-52&theme=dark&background=0D1117&ring=5B9AA6&fire=78B9C7&currStreakLabel=5B9AA6&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
