@@ -53,12 +53,6 @@
 
 ---
 
-### **System Metrics**
-
-<img src="https://www.gitclear.com/snap_changelogs/YOUR_UUID.png" />
-
----
-
 ### **Contribution Pattern**
 
 <div align="center">
