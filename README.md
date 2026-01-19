@@ -74,6 +74,7 @@
 **minor-law-52/minor-law-52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+
 <div align="center">
 
 <pre>
@@ -93,19 +94,11 @@
 ---
 
 <div align="center">
-  <svg width="280" height="40">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#5B9AA6" font-size="22" font-weight="600" font-family="monospace">
-      Technical Arsenal
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=999999&color=5B9AA6&center=true&vCenter=true&width=435&lines=Technical+Arsenal" alt="Technical Arsenal" />
 </div>
 
 <div align="center">
-  <svg width="180" height="30">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#5B9AA6" font-size="16" font-weight="600" font-family="monospace">
-      Languages
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=999999&color=5B9AA6&center=true&vCenter=true&width=435&lines=Languages" alt="Languages" />
 </div>
 
 <p align="center">
@@ -116,11 +109,7 @@
 </p>
 
 <div align="center">
-  <svg width="280" height="30">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#5B9AA6" font-size="16" font-weight="600" font-family="monospace">
-      Frameworks & Libraries
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=999999&color=5B9AA6&center=true&vCenter=true&width=435&lines=Frameworks+%26+Libraries" alt="Frameworks & Libraries" />
 </div>
 
 <p align="center">
@@ -131,11 +120,7 @@
 </p>
 
 <div align="center">
-  <svg width="230" height="30">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#5B9AA6" font-size="16" font-weight="600" font-family="monospace">
-      Database & Tools
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=999999&color=5B9AA6&center=true&vCenter=true&width=435&lines=Database+%26+Tools" alt="Database & Tools" />
 </div>
 
 <p align="center">
@@ -144,11 +129,7 @@
 </p>
 
 <div align="center">
-  <svg width="280" height="30">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#5B9AA6" font-size="16" font-weight="600" font-family="monospace">
-      Development Environment
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=999999&color=5B9AA6&center=true&vCenter=true&width=435&lines=Development+Environment" alt="Development Environment" />
 </div>
 
 <p align="center">
@@ -160,11 +141,7 @@
 ---
 
 <div align="center">
-  <svg width="280" height="40">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#5B9AA6" font-size="22" font-weight="600" font-family="monospace">
-      Contribution Pattern
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=999999&color=5B9AA6&center=true&vCenter=true&width=435&lines=Contribution+Pattern" alt="Contribution Pattern" />
 </div>
 
 <div align="center">
