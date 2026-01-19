@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer(Backend)+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=PHP%2C+JavaScript%2C+Laravel%2C+React)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+(Backend)" alt="Typing SVG" /></a>
 <!--
 **minor-law-52/minor-law-52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
