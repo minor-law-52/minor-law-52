@@ -3,7 +3,7 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║              Software Engineer (Backend)                 ║
+║              Software Engineer (Backend)                  ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
@@ -14,9 +14,6 @@
 
 </div>
 
-```
-Focused on building scalable systems with precision and clarity.
-```
 
 ---
 
@@ -63,8 +60,7 @@ HTML/CSS     ██████████░░░░░░░░░░  50%
 <div align="center">
 
 ```
-"Strategy without tactics is the slowest route to victory.
- Tactics without strategy is the noise before defeat."
+"The only way to go fast is to go well."
 ```
 
 <img src="https://komarev.com/ghpvc/?username=minor-law-52&color=5B9AA6&style=flat-square&label=Profile+Views" alt="Profile Views" />
