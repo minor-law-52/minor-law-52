@@ -58,7 +58,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=minor-law-52&theme=dark&background=0D1117&ring=5B9AA6&fire=78B9C7&currStreakLabel=5B9AA6&hide_border=true" alt="GitHub Streak" />
 </div>
-```markdown
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=minor-law-52&theme=dark&background=0D1117&ring=5B9AA6&fire=78B9C7&currStreakLabel=5B9AA6&hide_border=true" alt="GitHub Streak" />
 </div>
